@@ -1,10 +1,10 @@
 
 def no_mutate(arr)
-	arr.uniq
+  arr.uniq
 end
 
 def mutate(arr)
-	arr.uniq!
+  arr.uniq!
 end
 
 numbers = [1, 2, 3, 3, 4, 5, 5]
